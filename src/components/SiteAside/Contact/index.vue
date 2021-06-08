@@ -69,11 +69,6 @@ export default {
     line-height: 30px;
     margin: 14px 0;
     position: relative;
-    &:hover {
-      .pop {
-        transform: scaleY(1);
-      }
-    }
   }
   a {
     cursor: pointer;
